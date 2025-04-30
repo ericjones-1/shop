@@ -1,0 +1,7 @@
+my-discord-shop-bot/
+├── bot.py
+├── shop.json
+└── assets/
+    └── images/
+        ├── apple.png
+        └── banana.jpg
