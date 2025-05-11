@@ -1,0 +1,597 @@
+{
+  "PvP Kits": {
+    "Emperium Kit 2": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1365288770081128468/image.png?ex=68140400&is=6812b280&hm=0f25a157421a3a4d0e8ebccc4084fcd3ecefabd30ca45c8a27108b6ae6feb67a&"
+    },
+    "Tavux PvP Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1363271228009218248/image.png?ex=68134485&is=6811f305&hm=a1998fdfb14e04ed0a331eb086ab20a03ee6d1711e6c7867a7fb7782b537901c"
+    },
+    "Regear Kit v2": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359548539230879795/image.png?ex=6812e87e&is=681196fe&hm=a31eba1fe0e9c98987f424d0fafe950d1758328e1c2ed344607e78ce4d9b1104"
+    },
+    "Glowski Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359495241526415501/image.png?ex=6812b6db&is=6811655b&hm=5b87358c92ce76e4d00d87664b143eec9a7ca9d75077b6dc3ce95e37537bcca6"
+    },
+    "Bunys Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359494842979323944/image.png?ex=6812b67c&is=681164fc&hm=452a598ae43399f7269c0499b89e6009a2ba2d59c45c63672f62d2e3dc88dea1"
+    },
+    "Emperial Supply Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359494580474613760/image.png?ex=6812b63e&is=681164be&hm=77642b1c58dbb130026ef37435879a1743015cc4533e872522279d11879137d0"
+    },
+    "Fluffbuck3t PvP Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359494386806690024/image.png?ex=6812b60f&is=6811648f&hm=9ef5c7b184f70222dc93d8d636a3c14b8567da428affd461ba23154b76285705"
+    },
+    "PvP Regear Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359494137560301799/image.png?ex=6812b5d4&is=68116454&hm=cd821246a3483c98da199cba50348f2a2ac5284f17f5c808db8dab4f0d9baf69"
+    },
+    "Unbreakable Kit X": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359493814145913002/image.png?ex=68135e47&is=68120cc7&hm=e7600805beac3849601806093f56072a261f4f236b5a1fe32624132a2aa86f26"
+    },
+    "Troldeh Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359493530212630612/image.png?ex=68135e03&is=68120c83&hm=af9b417256b799d8365f81f84c30af530d4ccfe26e3eda6744323cd153db9482"
+    },
+    "Holy Kit DV": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359492913351888979/image.png?ex=68135d70&is=68120bf0&hm=ce3baa75852305749c8baa4d5090c8d447aacc567c5311914b8f6523edfb0936"
+    },
+    "8yn PvP Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359492498141085797/image.png?ex=68135d0d&is=68120b8d&hm=65bd31f340a3a20e1caaff3c57eae2e5d61fec64ef74b5ab248067288182124f"
+    },
+    "BarrenDome SB V4": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359492130829111487/image.png?ex=68135cb6&is=68120b36&hm=7b6bb10d00fb07c1fab03f59075be9337f412b92851defc8ba624d8bab824678"
+    },
+    "Invisiblexd Kit V2": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359491797050593391/image.png?ex=68135c66&is=68120ae6&hm=862e832961fd4f80f87fc39b5de55f677f93b58afad21c5be133c20f5926010e"
+    },
+    "Invisiblexd UNB Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359491647444095116/image.png?ex=68135c42&is=68120ac2&hm=33b939142b881008d77feaedd3261903780a694eda99c96ca8d97411f9c501a0"
+    },
+    "ChestShop Kit V1": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1359491135600332831/image.png?ex=68135bc8&is=68120a48&hm=b1f4a5a35d60cde42047a891f36e1381bb696aa5ab2dfe2cc23d19dc77acac85"
+    },
+    "Cosmic Senpai's Unbreakable Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318870893061214208/1321902643345363015/image.png?ex=6813b8c5&is=68126745&hm=e8d6e4ca01f52180c041bad0c26af14e5453d5ff2036f51407552106d7be5035"
+    }
+  },
+  "Survival Kits": {
+    "J-Z Travel Box V2": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318872696137715723/1363435589961121802/image.png?ex=6813dd98&is=68128c18&hm=353fd6da128ab3338dbc3e3899fe56527c133f6f39f560c56a5c32ed01e56377"
+    },
+    "Po1nt | Armor Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318872696137715723/1320078228588597329/image.png?ex=6813ad27&is=68125ba7&hm=bbededd7fd34a1f4f20f80e82405dbef6ba0375ef028cafb4cd303a2cf7b4fa5"
+    },
+    "Banana's Armor Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318872696137715723/1318872836391043135/image.png?ex=6813e7cb&is=6812964b&hm=3ca8500f97ece543e441a90a808d9b99ffb51e2ad9fcfdd03ced69d2f6cff438"
+    }
+  },
+  "Armor And Elytra": {
+    "Po1nt Fly Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1320077911688216646/image.png?ex=6813acdc&is=68125b5c&hm=ed464faee5e0364eb2dde442fb233acde25a798643bd141791b8b0667cdca25b"
+    },
+    "D3 Fireworks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1320075581936631958/image.png?ex=6813aab0&is=68125930&hm=4baea4c62bf45e753622a79acf82a2f1489b438565db2835a929e4c5a0aa09a7"
+    },
+    "Elytras": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1318872216187965531/image.png?ex=6813e737&is=681295b7&hm=3ab0e9474c36ef2139c2b76390801f58755c08ae8a17bc0411f138204d62169e&"
+    },
+    "Boots": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1318872037309022261/image.png?ex=6813e70d&is=6812958d&hm=047aa439141fd0b9b3bb795e91ebe362b0954bab5cd86de1a184f579282a6092&"
+    },
+    "Leggings": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1318871945160167506/image.png?ex=6813e6f7&is=68129577&hm=cc3187622b6487de35a14bf1ced018fe988058bf0a0e83f4f820f74da04ca163&"
+    },
+    "Chestplates": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1318871887752724521/image.png?ex=6813e6e9&is=68129569&hm=22b168ff0ba3209746af48b9e4238f26af1807a41af1b8bd6aa8940b0feff72b&"
+    },
+    "Helmets": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318871749756063855/1318871821331730463/image.png?ex=6813e6d9&is=68129559&hm=9d8cddee1e6b7f80ee09c56d9a9ff7c3cd9d2139ef80b4aa1c0909735773e695&"
+    }
+  },
+  "Redstone Kits": {
+    "Clav_'s Redstone Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313905150506831893/1313905254118461537/image.png?ex=68144a5f&is=6812f8df&hm=ebac8105bb332bc580ae6e11a9a777a09ce18097bbb626ae905fb6edb42be894&"
+    }
+  },
+  "Items": {
+    "Cocoa Beans": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1332812361010118797/image.png?ex=6813dc3d&is=68128abd&hm=2bfc751ec5d4af4f3136d5d81910e3d1ec7b83cc1c7e8a934c1eb41c8841542b&"
+    },
+    "Shulker Shells": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1327355299979333682/image.png?ex=6813c874&is=681276f4&hm=3372891e4353d7e981fb17fc3e5756a68c74cc7434123229f121da9054c654ad&"
+    },
+    "XP": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1327246024082984982/image.png?ex=68140b6f&is=6812b9ef&hm=8046ded9fee7ada23f6c003e6265e2507c2551c514bf1ec391ebc5a1c613720c&"
+    },
+    "Bamboo": {
+      "price": 0.25,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1324313651024232478/image.png?ex=6813ec72&is=68129af2&hm=6fda82572c0978865d39fd35beaf928da7b99a7770eeaad4d5ef2d2d6aded9fb&"
+    },
+    "Glow Ink Sac": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1324088098543632395/image.png?ex=6813c323&is=681271a3&hm=cb26ac9fe53a633376fffa80d243e8e54d2c3bfe8bb39cbaa071688e6556fb40&"
+    },
+    "Gunpowder": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1324061934148124755/image.png?ex=68145384&is=68130204&hm=cf6dbff6d3b92586abbfbf4c38de5c798a1b5a5ff9b79ed812b15a8462affb90&"
+    },
+    "Pickaxes Silk": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1321902920928723055/image.png?ex=681461c8&is=68131048&hm=3a4818f12a92ecb898a1ae1047838f46656d7d57ea052ce1ba3325152c5c9e5b&"
+    },
+    "Pickaxes Fortune": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1321902920928723055/image.png?ex=681461c8&is=68131048&hm=3a4818f12a92ecb898a1ae1047838f46656d7d57ea052ce1ba3325152c5c9e5b&"
+    },
+    "Ender Pearls": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1321902386008297522/image.png?ex=68146148&is=68130fc8&hm=d663410b6313f5fa4559a5d1819ef26fc4bb1420e7db6f5241dd038ceeb87213&"
+    },
+    "Strenght II": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1320077064946188298/image.png?ex=681454d2&is=68130352&hm=28e9bb1bf23e03d98970e89afd3f06d22c38ba1108ee9538845b5363ded22a6a&"
+    },
+    "Crystals": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1320075686979047505/image.png?ex=68145389&is=68130209&hm=726301a34db7d1ed8880f222fe4688e751e6b5714e8626cd37199b1249175845&"
+    },
+    "Bows": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1318873004285104189/image.png?ex=6813e7f3&is=68129673&hm=0caec244225989ff509007392775e0f6c92868a403d07320febbccf4fb8b684d&"
+    },
+    "Shovels": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1318871592381579274/image.png?ex=6813e6a3&is=68129523&hm=7cc69ce24cc7ad1807d68b43e177917998958dc93e55a3657fb8b11651a3c559&"
+    },
+    "Axes": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1318871531492741211/image.png?ex=6813e694&is=68129514&hm=1f087a5ccb2c63861dca0538d32091634ba3fd8090d128becd32f81efee1c522&"
+    },
+    "Swords": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1318871462722932747/image.png?ex=6813e684&is=68129504&hm=9cc71ab96f75611d76ca96a9e225fe572585b8a4d950a78675f36fa9ae73ec33&"
+    },
+    "Totems": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1318869488673751051/1318869996025155647/image.png?ex=6813e526&is=681293a6&hm=482334a648505d783a96f4974f6f8ce38d8f5b07077c52450870e20150fa479a&"
+    }
+  },
+  "Dubs": {
+    "Dub Of Totems": {
+      "price": 5.0,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1363129781042020372/1363132165545791630/file-B8feJekpco6ww1sFsGxsk7.png?ex=68156602&is=68141482&hm=8c86596f9eb69c3c6d67ec65e3c996417d9d39d45d67fd123200243b136e6ead&"
+    }
+  },
+  "Blocks": {
+    "Slime Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1363439885574344825/image.png?ex=6815dbd8&is=68148a58&hm=2cdc22fed33cea4319e19dad423f12ccf59d28951e15536c0467e415e44bfe1b&"
+    },
+    "Milk Maids' Highway Repair Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1341724402160762961/image.png?ex=68154cf9&is=6813fb79&hm=ac7445fac8985afdde4609092525ea144f2d03d853a0d9dd88ba11ff1239a2f7&"
+    },
+    "Blocks v2": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1341723979911663616/image.png?ex=68154c94&is=6813fb14&hm=421eb0d0ed603f194e6525e26cc460ebfbb2a25a4e35bf6151b8a4f9704458da&"
+    },
+    "Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1341362302489727027/image.png?ex=68154d3e&is=6813fbbe&hm=59ca315fddd39e32330e0825057e3de87d6055ec530d2d3418d8bb5f751546f2&"
+    },
+    "TNT": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1341359877959712868/image.png?ex=68154afc&is=6813f97c&hm=2b1e442484d642ff7377850d8308231f0d2d1009772dddd44c82faaa9a0069b7&"
+    },
+    "Ender Chests": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1341359415374118997/image.png?ex=68154a8d&is=6813f90d&hm=6c585bd40545140861a43aec3b7b2e1c6b574b58fcc70b19f49b46f28f7c0393&"
+    },
+    "Prismarine Bricks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1336394568991506515/image.png?ex=6815afae&is=68145e2e&hm=e02c85762941a8bdbb2cab2d064eae997eeb9af8f46f6ab4cfe962b1848f1bdf&"
+    },
+    "Prismarine": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1336394102224195614/image.png?ex=6815af3e&is=68145dbe&hm=daf61a1e1f04edbfa49d5879d7d2ca2d6fb0820beff97f28cf1cdf4a450915c7&"
+    },
+    "Purpur Block": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1336393834044719197/image.png?ex=6815aeff&is=68145d7f&hm=8160af873870e247b2be2334a38f1ed4ff362ef9d61bbb395ce56dfc1afddf1e&"
+    },
+    "Jungle Logs": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1332812279137304728/image.png?ex=6815d669&is=681484e9&hm=4fdb2eeb629e79c4d0092db6540d6fd6f270b8eabb4a1f510e6dc6725e22a327&"
+    },
+    "Mycelium": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1332812083154124820/image.png?ex=6815d63b&is=681484bb&hm=14706e50428a91fa5d9f9031020531bbd1e4a50288ea128df1062d1ef5ad8a8e&"
+    },
+    "Mushroom Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1332811962693980301/image.png?ex=6815d61e&is=6814849e&hm=4b678f2fdf5863eacf523cfc64d57b30bb6834f33f3560f5d97ba5e90c7d826c&"
+    },
+    "Wool (Any color)": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330837639087259648/image.png?ex=68153ee2&is=6813ed62&hm=b3c354ffab178a3bf69fd5df3fd86fea040c448ab951fe5e21289fc4bd074bfd&"
+    },
+    "Pearlescent Froglights ": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330836867968405505/image.png?ex=68153e2b&is=6813ecab&hm=7f32ed17481917f10fc873b0ebaf4ed895596f36b7c8ecb8e132e1dafa4ede07&"
+    },
+    "Ochre Froglights": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330836763635220562/image.png?ex=68153e12&is=6813ec92&hm=55657a1ce17a4e98a5d245f972f4c1ba5d4afb7ba0f660b086956ad3656d1a69&"
+    },
+    "Verdant Froglights": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330836684694224896/image.png?ex=68153dff&is=6813ec7f&hm=6fbdae813fb7bc87c24cc74b1339117296f51750bbc8dd7c5c02dc0cf0126a0f&"
+    },
+    "Pumpkins": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330836507031765012/image.png?ex=68153dd5&is=6813ec55&hm=8da7b4745d1a0a5c6f5d8d5749ec604783dbcd18badc2800b32c163b96a2569a&"
+    },
+    "Melons": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330836434755653632/image.png?ex=68153dc3&is=6813ec43&hm=7b9ab70f8157f0bcc85a00a230922027329e4634a4964da29ce9d7daa0602378&"
+    },
+    "Kaklo's Diorite Andesite Granite": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330564192633225329/image.png?ex=681591b8&is=68144038&hm=4252e6b675334d6291aa5b975239ea91b47329923519f0c2d80e4e829f646adc&"
+    },
+    "Emperial Wood Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330564088899702836/image.png?ex=6815919f&is=6814401f&hm=a9846c290d08e8e249831ddc337c5fdfd8f825a675c6b5a7526992d7adbaab89&"
+    },
+    "Kaklo's Decoblocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330563867176210462/image.png?ex=6815916a&is=68143fea&hm=162534c8a18ecdd5a24b87831a22d24994aaefa8f64082ff3c096db0fc45c5d7&"
+    },
+    "Kaklo's Anvils and Cobwebs": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330563665119940690/image.png?ex=6815913a&is=68143fba&hm=103c580ae7ba2d81a841427b8ba66f77e7b2f07e381c6ee568913d88d57a729f&"
+    },
+    "Kaklo's Gravel Sand Red Sand": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330563554104840293/image.png?ex=6815911f&is=68143f9f&hm=5f807db0fc97eb562b47cd1a1677427f224b250315818e76fbfb47b112903d31&"
+    },
+    "Emperial Concrete": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330563448202985543/image.png?ex=68159106&is=68143f86&hm=5ce564e903a862255d61d65fd5c1e6646ab540e3ff06d1b1d5bb6fa9ce962150&"
+    },
+    "Artemis' Glass Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330563379143774239/image.png?ex=681590f6&is=68143f76&hm=8dd192a2017c6fad18778f0b8a0fb8bf9e180c9dfb1be698af2726120d28073e&"
+    },
+    "Bricks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1330563194934001725/image.png?ex=681590ca&is=68143f4a&hm=cf869ccbc3d53764f5e91fecbecb49a04593af903ab1459cc58065244b31721c&"
+    },
+    "Cobbled Deepslate": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1328669847080538122/image.png?ex=681544f9&is=6813f379&hm=448ee8194faa0f52217c57b5359018ee988e683d97011a77a42c45382a599975&"
+    },
+    "Block of Bamboo": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1326787906307887155/image.png?ex=6815ac87&is=68145b07&hm=099bf59e2376a082edc1ca37b461c84161e986b207c1f2daea1f282d414953df&"
+    },
+    "Bamboo Planks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1326787839953735730/image.png?ex=6815ac77&is=68145af7&hm=defe53f02e2534918771ed5ccab741ee9fcaed446ffbcae682d19dcf2ca21c47&"
+    },
+    "Black Concrete Powder": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1326787726435024896/image.png?ex=6815ac5c&is=68145adc&hm=8c11d5d7b36497bc0a0ca68e7f0176b4ef4d3640277805ec3cb41a6a91067a5c&"
+    },
+    "Enchanting Table": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1326526730344730715/image.png?ex=6815620a&is=6814108a&hm=190f789c71baeaa2d705a90d6dc43cf4370f6530dee51afe7edf694d10c99bf0&"
+    },
+    "Magenta Concrete Powder": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1324762947259600896/image.png?ex=68158ee3&is=68143d63&hm=ad3fbef5526b3a5fbf4a738f7c4ba1db7ccec64182fd42033809c918d410acf6&"
+    },
+    "Scaffolding": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1324318929346101360/image.png?ex=681542dd&is=6813f15d&hm=cab1a960232ee532b255a2f696671afcbca6f7dbc2c8e79be33e5d6f8306988c&"
+    },
+    "Emerald Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1324062466405306398/image.png?ex=6815a583&is=68145403&hm=395f98ef7cc43e51434d4ef75ad205bc4856a186378ca93982d2823793be97ae&"
+    },
+    "Redstone Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1324061826706706504/image.png?ex=6815a4eb&is=6814536b&hm=4f85fd9d7f6c98f09e744102022cbc5419f3a3d6f8165b7caa34ae1d80485efd&"
+    },
+    "Black Stained Glass": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1320076770640396480/image.png?ex=6815a60b&is=6814548b&hm=cd6e4acb1412c137f2c5fc13a9a1e03f8d160f997e2eddd93c0d17dfa9951687&"
+    },
+    "Obsidian": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1320075991179329647/image.png?ex=6815a552&is=681453d2&hm=983780f877698408da094d2f535a239a0d1469d12fda89c51d75199bd321577d&"
+    },
+    "Polished Diorite": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1320075901412704426/image.png?ex=6815a53c&is=681453bc&hm=46b1a2a61f2295bb661a6e2fa8ef737ebdac9005fd1584f5862022c1b2493694&"
+    },
+    "Bookshelves": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313905608117715054/image.png?ex=68159c34&is=68144ab4&hm=da88eac6fab0e9e01b1dfe3c0ce127a9c5fc4263163cfe3c9ac0b15405b85dc6&"
+    },
+    "Chiseled Stone Bricks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313905517395185836/image.png?ex=68159c1e&is=68144a9e&hm=e57ff5e359c2df014ac759e349f45b2ed471d577b4544b07b62420a79225b8a0&"
+    },
+    "Stone Bricks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313905403578290259/image.png?ex=68159c03&is=68144a83&hm=7608ab595cdf7106bf5345107a2b1d0dd81b01ec069142d9b5270a5b86544e99&"
+    },
+    "Light Blue Glass": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313905362390482964/image.png?ex=68159bf9&is=68144a79&hm=06ab95ac55281a1f5118519ca0e0d1ed347666666160ffefcb6649825fc9be3d&"
+    },
+    "Glowstone": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904822604267641/image.png?ex=68159b78&is=681449f8&hm=966c7b30b6f6c9f2506ad4e42ca19264a275453c4d9ea902a6d0da2cbd7b3528&"
+    },
+    "Glass": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904768900534303/image.png?ex=68159b6c&is=681449ec&hm=ab041a7b588010e6ec3c02dd1e4d95c68718aeec23ad0c04207a45296f291f34&"
+    },
+    "Stone": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904506500681868/image.png?ex=68159b2d&is=681449ad&hm=4116e585be37d79ffa891e41fdbc56be908840262064091f667dfc3bafd2c8fd&"
+    },
+    "Cracked Stone Bricks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904435864277082/image.png?ex=68159b1c&is=6814499c&hm=9bdc241db7d6a28dc1f7f6f911a4be9432e8d1697aa5f8eb7acb061f7580705c&"
+    },
+    "Sea Lanterns": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904255354146870/image.png?ex=68159af1&is=68144971&hm=b83623259f316dd54963d80bf12c58040015176062f37ecb8832e661d0436351&"
+    },
+    "Coal Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904118733213787/image.png?ex=68159ad1&is=68144951&hm=cc9b9f5c96fb0adc1a74134c5a22b67151a151e1ba818f6a8a2263ae20937b5e&"
+    },
+    "Quartz Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313904049757622273/image.png?ex=68159ac0&is=68144940&hm=c3d559fe2dccd277f9f7d1acb999db370f092b1dd2784345a20a3b98c9763ac6&"
+    },
+    "Mossy Stone Bricks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313903946171023380/image.png?ex=68159aa7&is=68144927&hm=75c9e420ff5585624356e12a83071f5fe5a597af3802ceb424ad5b18f0e06751&"
+    },
+    "Lapis Lazuli Blocks": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313903416887480401/1313903667794935849/image.png?ex=68159a65&is=681448e5&hm=98a0c3dc5840e5d463217cedfca1df702f44146f41de9acd953b694e13703a69"
+    }
+  },
+  "Misc": {
+    "Nether Collection Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1363437393344069732/image.png?ex=68168246&is=681530c6&hm=5fc9af4d5211b8874c74dc4a9c3bb8e7033db0e8887c7fd9acb577aa931ba826&"
+    },
+    "Afro's Enchanting Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1363436114463035523/image.png?ex=68168115&is=68152f95&hm=a9ed605e845da98847828f29596b9d445b8da48fa9496acccaf35d7b4a3c0c9f&"
+    },
+    "Misc": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1330563753921478896/image.png?ex=6816e2cf&is=6815914f&hm=2fce4ce037c2c7fb204be113df2dc183962b4319d6122aa6411c74d3b49c8cfe&"
+    },
+    "Speedy gonzales": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1326526391746826250/image.png?ex=6816b339&is=681561b9&hm=db1c228c6017d38e3eb701536eb73be2468c5f08cfa72235841f4ebb67f9cc24&"
+    },
+    "T0_CR4ZY's Wrath (wither kit v1)": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1320077397328138333/image.png?ex=6816f821&is=6815a6a1&hm=cb78936393ceffe71c46d4d4fe7150193428bd4c3dc95e4d1fb3be5aadad9060&"
+    },
+    "Psiandor's Bow Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1320077176913268815/image.png?ex=6816f7ec&is=6815a66c&hm=5d5735b667c5fa548b92870f076f1600e2000b5c8374a856792f4429f988563b&"
+    },
+    "Material Box": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1320076974802210866/image.png?ex=6816f7bc&is=6815a63c&hm=ff67fe27c359606faa875c598ae4f65335282d21239ee560cb3efdf73350dbf2&"
+    },
+    "StoJOJO kit by OG_Triple_OGne": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1320076128513429544/image.png?ex=6816f6f2&is=6815a572&hm=9d335b707543ef035c574619797de94b425b072030b2a3d3dba1a867a071c8a4&"
+    },
+    "Strings": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1320075459555229788/image.png?ex=6816f653&is=6815a4d3&hm=18a8c7b712bcffd156839f2be969ca03adb1668fc864c38afb47b8458734a36c&"
+    },
+    "J-Z Stack of Everything": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1318872577099431998/image.png?ex=68168a8d&is=6815390d&hm=6a3fc4f4277a13676dc7fa56b417b109a2566e53e1202ea4c0e0c309efbb1e71&"
+    },
+    "Snowballs": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1313905858337439814/image.png?ex=6816edef&is=68159c6f&hm=55f9ed95eb5ba18a5fe41a23baf59d33b0eccc315c6519ad1392bfef5d4433b9&"
+    },
+    "Clav_'s Leaves and Such": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1313904985649713163/image.png?ex=6816ed1f&is=68159b9f&hm=127fc526de739a80460a0a36ed33a4e83e67388fdd37ba371eab38ae01e67cff&"
+    },
+    "Xdolf's Dye Kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1313904642010386532/1313904713829453916/image.png?ex=6816ecde&is=68159b5e&hm=b0d4ad796369351ae970b11edd78a7ceef0d8ba9212b8607a92055a3c1fbe156&"
+    }
+  },
+  "Food": {
+    "Golden Carrots": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1320077509148282944/1332735437118246983/image.png?ex=6816e059&is=68158ed9&hm=ea06f1dc2ce5c06280344ebc298d4e131bccd7352aa9cc19c6262046158aa8c6&"
+    },
+    "Chorus Fruits": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1320077509148282944/1321902819091152938/image.png?ex=681704af&is=6815b32f&hm=8595c141e4343f8a62d46eddea537c352170f05ccae50af2bd86c10103e29e5b&"
+    },
+    "Gaps": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1320077509148282944/1321902480006578197/image.png?ex=6817045e&is=6815b2de&hm=b0475ae694a325cc26c2ef8ce6172985468fb8d237e3af916ebc944b542b0268&"
+    },
+    "Cookie kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1320077509148282944/1320077684910587904/image.png?ex=6816f865&is=6815a6e5&hm=adfdf97e77acefee1693f20b8a50df2fa89265754a394caad25198aebd84d88e&"
+    },
+    "Po1nt unstaked cakes kit": {
+      "price": 0.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1320077509148282944/1320077598445015102/image.png?ex=6816f851&is=6815a6d1&hm=11998f905246f8922fd02840ed694c9801320f42aa3b2134ee4eb0bccd83136d&"
+    }
+  },
+  "Netherite Kits": {
+    "Zlcr Secret Kit": {
+      "price": 1.5,
+      "stock": 999,
+      "image": "https://cdn.discordapp.com/attachments/1320076500720029706/1369929168170520678/image.png?ex=68204875&is=681ef6f5&hm=9a9a3d7641cb5b8883e83f383e2bbcc8dcddffdf5245ae58503f20dd23813f85&"
+    }
+  }
+}
